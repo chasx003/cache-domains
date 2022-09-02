@@ -116,11 +116,6 @@
 			"name": "wsus",
 			"description": "CDN for windows updates",
 			"domain_files": ["windowsupdates.txt"]
-		},
-		{
-			"name": "xboxlive",
-			"description": "CDN for xboxlive",
-			"domain_files": ["xboxlive.txt"]
 		}
 	]
 }
